@@ -45,7 +45,9 @@ Como utilizar técnicas de Processamento Digital de Imagens para identificar aut
 
 ###### 2\. Problemática
 
-Inerente a Imagem
+- Inerente a Imagem
+
+
 Uma imagem de estacionamento apresenta diferentes características que podem dificultar essa identificação, como:
 diferentes cores de veículos;
 sombras; variações de iluminação;
