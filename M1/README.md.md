@@ -11,7 +11,7 @@
 Integrantes
 
 - João Matheus
-- Maria Eduarda
+- Maria Eduarda de Melo Honorato
 - Scheila Carolini da Silva Ceresa
 ---
 
@@ -45,43 +45,15 @@ Como utilizar técnicas de Processamento Digital de Imagens para identificar aut
 
 ###### 2\. Problemática
 
+<Inerente a Imagem>
+Uma imagem de estacionamento apresenta diferentes características que podem dificultar essa identificação, como: diferentes cores de veículos; sombras; variações de iluminação; reflexos; diferentes tamanhos e formatos de veículos; diferentes posições dos veículos; obstáculos; E sobreposição parcial de objetos.
+A solução proposta irá contornar os desafios relacionados à diversidade cromática dos veículos, sombras moderadas, reflexos superficiais, variações globais de iluminação e a presença de sujeira no chão, uma vez que a análise baseada no desvio padrão dos pixels captura qualquer alteração textural na superfície da vaga. Entretanto, essa solução terá uma saída delimitada, sendo capaz apenas de classificar a vaga como ocupada ou vazia, não sendo capaz de identificar o que está ocupando a vaga. Dessa forma, questões relacionadas a obstáculos, cones e lixeiras não serão contornadas, pois todos serão tratados da mesma forma que um veículo. Da mesma forma, desafios ligados a diferentes posições dos veículos, diferentes tamanhos e formatos de veículos, e sobreposição parcial de objetos também não serão abordados.
+
+<Saida>
+
+<Entrada>
 
 
-A disponibilidade de vagas em um estacionamento pode mudar constantemente conforme veículos entram e saem do local. A identificação visual dessas vagas pode exigir que o usuário percorra diferentes áreas do estacionamento até encontrar um espaço disponível.
-
-
-
-Além disso, em ambientes com muitas vagas, a observação manual pode dificultar o acompanhamento da ocupação geral do estacionamento.
-
-
-
-Uma alternativa seria utilizar imagens capturadas por uma câmera para realizar automaticamente a análise das regiões correspondentes às vagas.
-
-
-
-Entretanto, uma imagem de estacionamento apresenta diferentes características que podem dificultar essa identificação, como:
-
-
-
-diferentes cores de veículos;
-
-sombras;
-
-variações de iluminação;
-
-reflexos;
-
-diferentes tamanhos e formatos de veículos;
-
-diferentes posições dos veículos;
-
-obstáculos;
-
-sobreposição parcial de objetos.
-
-
-
-Dessa forma, o problema não consiste apenas em localizar uma vaga, mas em analisar suas características visuais e determinar se a região correspondente apresenta indícios de ocupação.
 
 
 
