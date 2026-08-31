@@ -45,8 +45,13 @@ Como utilizar técnicas de Processamento Digital de Imagens para identificar aut
 
 ###### 2\. Problemática
 
-- Inerente a Imagem
-Uma imagem de estacionamento apresenta diferentes características que podem dificultar essa identificação, como: diferentes cores de veículos; sombras; variações de iluminação; reflexos; diferentes tamanhos e formatos de veículos; diferentes posições dos veículos; obstáculos; E sobreposição parcial de objetos.
+Inerente a Imagem
+Uma imagem de estacionamento apresenta diferentes características que podem dificultar essa identificação, como:
+diferentes cores de veículos;
+sombras; variações de iluminação;
+reflexos; diferentes tamanhos e formatos de veículos;
+diferentes posições dos veículos; obstáculos;
+E sobreposição parcial de objetos.
 A solução proposta irá contornar os desafios relacionados à diversidade cromática dos veículos, sombras moderadas, reflexos superficiais, variações globais de iluminação e a presença de sujeira no chão, uma vez que a análise baseada no desvio padrão dos pixels captura qualquer alteração textural na superfície da vaga. Entretanto, essa solução terá uma saída delimitada, sendo capaz apenas de classificar a vaga como ocupada ou vazia, não sendo capaz de identificar o que está ocupando a vaga. Dessa forma, questões relacionadas a obstáculos, cones e lixeiras não serão contornadas, pois todos serão tratados da mesma forma que um veículo. Da mesma forma, desafios ligados a diferentes posições dos veículos, diferentes tamanhos e formatos de veículos, e sobreposição parcial de objetos também não serão abordados.
 
 - Saida
