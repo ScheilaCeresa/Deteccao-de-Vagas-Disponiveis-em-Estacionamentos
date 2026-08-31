@@ -67,7 +67,9 @@ A solução terá uma saída booleana, classificando a vaga como ocupada (1) ou 
 
 - Entrada
 
- as imagens de entrada necessariamente precisam ser de um ambiente controlado, ou seja, um estacionamento com vagas delimitadas e padronizadas, nao sendo aplicavel em  ambientes não estruturados, como estacionamentos sem demarcações visíveis, vagas de formatos irregulares ou locais com perspectivas de câmera que distorcem significativamente as proporções das vagas.
+As imagens de entrada necessariamente precisam ser de um ambiente controlado, ou seja, um estacionamento com vagas delimitadas e padronizadas, nao sendo aplicavel em  ambientes não estruturados, como estacionamentos sem demarcações visíveis, vagas de formatos irregulares ou locais com perspectivas de câmera que distorcem significativamente as proporções das vagas.
+
+Tipo de Imagem: PNG
 
 
 
