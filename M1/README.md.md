@@ -40,7 +40,7 @@ O problema central do projeto pode ser definido pela seguinte questão:
 
 
 Como utilizar técnicas de Processamento Digital de Imagens para identificar automaticamente vagas de estacionamento livres e ocupadas a partir de uma imagem capturada por uma câmera?
-
+---
 
 
 ###### 2\. Problemática
@@ -57,6 +57,7 @@ E sobreposição parcial de objetos.
 A solução proposta irá contornar os desafios relacionados à diversidade cromática dos veículos, sombras moderadas, reflexos superficiais, variações globais de iluminação e a presença de sujeira no chão, uma vez que a análise baseada no desvio padrão dos pixels captura qualquer alteração textural na superfície da vaga. Entretanto, essa solução terá uma saída delimitada, sendo capaz apenas de classificar a vaga como ocupada ou vazia, não sendo capaz de identificar o que está ocupando a vaga. Dessa forma, questões relacionadas a obstáculos, cones e lixeiras não serão contornadas, pois todos serão tratados da mesma forma que um veículo. Da mesma forma, desafios ligados a diferentes posições dos veículos, diferentes tamanhos e formatos de veículos, e sobreposição parcial de objetos também não serão abordados.
 
 - Saida
+A solução terá uma saída booleana, classificando a vaga como ocupada (1) ou vazia (0).
 
 - Entrada
 
