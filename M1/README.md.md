@@ -40,7 +40,11 @@ O problema central do projeto pode ser definido pela seguinte questão:
 
 
 Como utilizar técnicas de Processamento Digital de Imagens para identificar automaticamente vagas de estacionamento livres e ocupadas a partir de uma imagem capturada por uma câmera?
+
 ---
+
+
+
 
 
 ###### 2\. Problemática
