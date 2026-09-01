@@ -137,8 +137,11 @@ O projeto ainda não foi iniciado; estamos apenas na fase de ideação da soluç
 ## Link do Video
 
 Link
+
 ---
 
 ## conjunto ou origem das imagens
 
 Txt
+
+---
