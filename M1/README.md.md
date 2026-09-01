@@ -114,6 +114,10 @@ O sistema é dividido em três fases principais:
 - Cálculo do desvio padrão médio das vagas vazias em imagem de referência
 - Definição de limiar adaptativo: se desvio > limiar → ocupado
 
+### Viabilidade da Solução
+
+A princípio, pensamos que a lógica de aplicação é simples, bem como os métodos decididos.
+
 ---
 
 ## Tecnologias Utilizadas
@@ -130,7 +134,7 @@ Optamos por essas tecnologias por serem de domínio do grupo, garantindo agilida
 
 ## Estado Atual do Projeto
 
-O projeto ainda não foi iniciado; estamos apenas na fase de ideação da solução.
+O projeto ainda não foi iniciado; estamos apenas na fase de idealização da solução.
 
 ---
 
