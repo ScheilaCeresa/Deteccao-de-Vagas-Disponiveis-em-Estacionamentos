@@ -1,6 +1,6 @@
 # Detecção de Vagas Disponíveis em Estacionamentos por Processamento Digital de Imagens
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 
 Este projeto tem como objetivo investigar e desenvolver uma solução baseada em **Processamento Digital de Imagens (PDI)** para identificar automaticamente se vagas de estacionamento estão **livres ou ocupadas**, a partir de imagens capturadas por câmeras.
 
@@ -8,7 +8,7 @@ A proposta surge da necessidade de otimizar a busca por vagas em estacionamentos
 
 ---
 
-## 👥 Integrantes
+## Integrantes
 
 - João Matheus  
 - Maria Eduarda de Melo Honorato  
@@ -16,7 +16,7 @@ A proposta surge da necessidade de otimizar a busca por vagas em estacionamentos
 
 ---
 
-## 🧩 Definição do Problema
+## Definição do Problema
 
 Em estacionamentos com grande quantidade de vagas, a identificação visual da disponibilidade é frequentemente ineficiente, especialmente em horários de pico. A movimentação constante de veículos torna o processo ainda mais desafiador.
 
@@ -30,20 +30,20 @@ Diante disso, propomos responder à seguinte pergunta:
 
 Inerente a Imagem:
 
-### ✅ Desafios contornados:
+### Desafios contornados:
 - Diversidade cromática dos veículos  
 - Sombras moderadas  
 - Reflexos superficiais  
 - Variações globais de iluminação  
 - Sujeira no chão  
 
-### ⚠️ Limitações conhecidas:
+### Limitações conhecidas:
 - Não identifica o tipo de objeto ocupante (veículo, cone, lixeira, etc.)  
 - Não trata sobreposição parcial de objetos  
 - Não considera diferentes posições ou tamanhos de veículos  
 - Não é aplicável em ambientes não estruturados (vagas sem demarcação, formatos irregulares, perspectivas distorcidas)
 
-## 🧾 Entrada e Saída
+## Entrada e Saída
 
 | Tipo       | Descrição                                                                 |
 |------------|---------------------------------------------------------------------------|
@@ -51,23 +51,9 @@ Inerente a Imagem:
 | **Saída**   | Valor booleano: `1` (ocupada) ou `0` (vazia) para cada vaga analisada     |
 
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Java  
 - OpenCV  
 
 Motivo: Optamos por essas tecnologias por serem de domínio do grupo, garantindo agilidade no desenvolvimento. A escolha também é compatível com a abordagem adotada, que utiliza métodos tradicionais de PDI, dispensando o uso de bibliotecas mais complexas.
-
-
-## 📁 Estrutura do Repositório
-
-```bash
-├── data/                  # Imagens de entrada
-├── notebooks/             # Experimentos e prototipação
-├── src/                   # Código-fonte principal
-│   ├── preprocessamento.py
-│   ├── deteccao_vagas.py
-│   └── utils.py
-├── outputs/               # Resultados e imagens processadas
-├── README.md
-└── requirements.txt       # Dependências do projeto
