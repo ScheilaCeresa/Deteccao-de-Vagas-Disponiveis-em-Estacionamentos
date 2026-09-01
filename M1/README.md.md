@@ -126,3 +126,14 @@ O sistema é dividido em três fases principais:
 
 Optamos por essas tecnologias por serem de domínio do grupo, garantindo agilidade no desenvolvimento. A escolha também é compatível com a abordagem adotada, que utiliza métodos tradicionais de PDI, dispensando o uso de bibliotecas mais complexas.
 
+---
+
+## Estado Atual do Projeto
+
+O projeto ainda não foi iniciado; estamos apenas na fase de ideação da solução.
+
+---
+
+## Link do Video
+
+Link
