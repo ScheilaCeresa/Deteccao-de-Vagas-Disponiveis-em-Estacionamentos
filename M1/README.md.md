@@ -123,3 +123,6 @@ O sistema é dividido em três fases principais:
 | **Java 11+** | Linguagem de programação principal |
 | **OpenCV 4.5+** | Processamento de imagem e visão computacional |
 | **Maven/Gradle** | Gerenciamento de dependências |
+
+Optamos por essas tecnologias por serem de domínio do grupo, garantindo agilidade no desenvolvimento. A escolha também é compatível com a abordagem adotada, que utiliza métodos tradicionais de PDI, dispensando o uso de bibliotecas mais complexas.
+
