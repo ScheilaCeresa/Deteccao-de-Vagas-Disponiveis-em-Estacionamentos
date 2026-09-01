@@ -26,9 +26,9 @@ Diante disso, propomos responder à seguinte pergunta:
 
 ---
 
-## Delimitacao de Escopo
+## Delimitação de Escopo
 
-Inerente a Imagem:
+Inerente à Imagem:
 
 ### Desafios contornados:
 - Diversidade cromática dos veículos  
@@ -53,7 +53,7 @@ Inerente a Imagem:
 
 ---
 
-## Solucao
+## Solução
 
 ## Arquitetura do Sistema
 
@@ -134,13 +134,13 @@ O projeto ainda não foi iniciado; estamos apenas na fase de ideação da soluç
 
 ---
 
-## Link do Video
+## Link do Vídeo
 
 Link
 
 ---
 
-## conjunto ou origem das imagens
+## Conjunto ou Origem das Imagens
 
 Txt
 
