@@ -43,8 +43,6 @@ Inerente a Imagem:
 - Não considera diferentes posições ou tamanhos de veículos  
 - Não é aplicável em ambientes não estruturados (vagas sem demarcação, formatos irregulares, perspectivas distorcidas)
 
----
-
 ## 🧾 Entrada e Saída
 
 | Tipo       | Descrição                                                                 |
@@ -52,7 +50,6 @@ Inerente a Imagem:
 | **Entrada** | Imagens no formato **PNG**, capturadas em ambiente controlado (vagas delimitadas e padronizadas) |
 | **Saída**   | Valor booleano: `1` (ocupada) ou `0` (vazia) para cada vaga analisada     |
 
----
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -61,8 +58,6 @@ Inerente a Imagem:
 
 Motivo: Optamos por essas tecnologias por serem de domínio do grupo, garantindo agilidade no desenvolvimento. A escolha também é compatível com a abordagem adotada, que utiliza métodos tradicionais de PDI, dispensando o uso de bibliotecas mais complexas.
 
-
----
 
 ## 📁 Estrutura do Repositório
 
